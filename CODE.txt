@@ -1,5 +1,6 @@
 inculde index.html
 
 var test = function() {
-	alert('SJAASDJASDJK');
+	
+	lk;fjasdfl;kjd;lfajsf
 }

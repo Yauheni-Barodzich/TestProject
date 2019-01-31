@@ -1,0 +1,5 @@
+inculde index.html
+
+var test = function() {
+	alert('SJAASDJASDJK');
+}
